@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "This is a components library for react. ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Humayun63/react-components-ocean.git"
@@ -24,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Humayun63/react-components-ocean/issues"
   },
-  "homepage": "https://github.com/Humayun63/react-components-ocean#readme"
+  "homepage": "https://github.com/Humayun63/react-components-ocean#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  }
 }
