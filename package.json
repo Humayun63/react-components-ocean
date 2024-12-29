@@ -1,0 +1,28 @@
+{
+  "name": "react-components-ocean",
+  "version": "0.0.1",
+  "description": "This is a components library for react. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humayun63/react-components-ocean.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "library",
+    "ui",
+    "library",
+    "design",
+    "system"
+  ],
+  "author": "Code Rex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humayun63/react-components-ocean/issues"
+  },
+  "homepage": "https://github.com/Humayun63/react-components-ocean#readme"
+}
